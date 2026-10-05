@@ -1,0 +1,24 @@
+{
+  "name": "experience-abu-dhabi-interactive-map",
+  "version": "1.0.0",
+  "description": "An app for displaying the interactive map",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aahad-powerdxb/Experience-Abu-Dhabi-Interactive-Map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aahad-powerdxb/Experience-Abu-Dhabi-Interactive-Map/issues"
+  },
+  "homepage": "https://github.com/aahad-powerdxb/Experience-Abu-Dhabi-Interactive-Map#readme",
+  "devDependencies": {
+    "electron": "^44.5.1"
+  }
+}
